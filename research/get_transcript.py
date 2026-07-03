@@ -2,7 +2,7 @@ import os
 import requests
 import re
 
-# 1. Paste your actual Supadata API key inside the quotes below
+# 1. Set your Supadata API key as an environment variable: SUPADATA_API_KEY
 API_KEY = os.environ.get("SUPADATA_API_KEY")
 if not API_KEY:
     raise ValueError("SUPADATA_API_KEY not set. Run: setx SUPADATA_API_KEY your_key")
@@ -15,7 +15,7 @@ def sanitize_name(name):
     return clean.strip().replace(" ", "_")
 
 def fetch_transcript():
-    print("\n--- 🎙️ Growth Marketing Transcript Fetcher ---")
+    print("\n---  Growth Marketing Transcript Fetcher ---")
     
     # 2. Ask the user for the details interactively
     video_url = input("Enter YouTube URL: ").strip()
@@ -51,9 +51,9 @@ def fetch_transcript():
     if response.status_code == 200:
         with open(output_path, "w", encoding="utf-8") as file:
             file.write(response.text)
-        print(f"✅ Success! Transcript saved to: {output_path}\n")
+        print(f"Success! Transcript saved to: {output_path}\n")
     else:
-        print(f"❌ API Error (Status {response.status_code}): {response.text}\n")
+        print(f"API Error (Status {response.status_code}): {response.text}\n")
 
 if __name__ == "__main__":
     fetch_transcript()
