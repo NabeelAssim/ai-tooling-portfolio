@@ -3,7 +3,9 @@ import requests
 import re
 
 # 1. Paste your actual Supadata API key inside the quotes below
-API_KEY = "sd_221e21529e2c716f3fa89fe5d4f94c08"
+API_KEY = os.environ.get("SUPADATA_API_KEY")
+if not API_KEY:
+    raise ValueError("SUPADATA_API_KEY not set. Run: setx SUPADATA_API_KEY your_key")
 BASE_DIR = "research/youtube-transcripts"
 
 def sanitize_name(name):
