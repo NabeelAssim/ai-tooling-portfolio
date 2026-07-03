@@ -16,12 +16,12 @@ def fetch_transcript():
     print("\n--- 🎙️ Growth Marketing Transcript Fetcher ---")
     
     # 2. Ask the user for the details interactively
-    video_url = input("🔗 Enter YouTube URL: ").strip()
-    expert_name = input("👤 Enter Expert's Name (e.g., Neil Patel): ").strip()
-    video_title = input("📝 Enter Video Title (e.g., B2B Cold Outreach): ").strip()
+    video_url = input("Enter YouTube URL: ").strip()
+    expert_name = input("Enter Expert's Name (e.g., Neil Patel): ").strip()
+    video_title = input("Enter Video Title (e.g., B2B Cold Outreach): ").strip()
 
     if not video_url or not expert_name or not video_title:
-        print("❌ Error: All fields are required. Please run the script again.")
+        print("Error: All fields are required. Please run the script again.")
         return
 
     # 3. Build the new nested folder path
@@ -41,7 +41,7 @@ def fetch_transcript():
         "text": "true" 
     }
     
-    print(f"\n📡 Requesting transcript for {video_title}...")
+    print(f"\n Requesting transcript for {video_title}...")
     
     # 5. Fetch and Save
     response = requests.get(endpoint, headers=headers, params=params)
