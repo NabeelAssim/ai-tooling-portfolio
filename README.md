@@ -1,3 +1,5 @@
+See `research/README.md` for Task 2 (LinkedIn organic content strategy research).
+
 # AI Tooling Portfolio Setup
 
 This repository documents my process setting up an AI-assisted development environment as a non-technical candidate, completed as part of a portfolio task.
@@ -34,7 +36,5 @@ This repository documents my process setting up an AI-assisted development envir
 Going into this, I wasn't sure what to expect since I don't have a coding background. The instructions assumed a level of familiarity I didn't have, which meant almost every step surfaced something unexpected.
 
 I used Claude to help me work through each error as it came up — interpreting what the error messages actually meant, figuring out why npm and Git weren't recognized, and understanding why Claude Code wasn't showing up where I expected it to in Cursor. What stood out to me was that the errors weren't really about the tools themselves being broken — they were missing dependencies or terminology that had changed between versions, and each one needed to be diagnosed before it could be fixed.
-
-I think that's closer to what this task was actually testing. I didn't know how to do this going in, but I knew how to ask the right questions, read an error message instead of panicking at it, and keep working through the problem until it resolved. That's the same approach I'd take with any unfamiliar tool on the job — figure out what's actually broken, find the right resource to help, and stay with it until it works.
 
 I think that's closer to what this task was actually testing. I didn't know how to do this going in, but I knew how to ask the right questions, read an error message instead of panicking at it, and keep working through the problem until it resolved. That's the same approach I'd take with any unfamiliar tool on the job — figure out what's actually broken, find the right resource to help, and stay with it until it works.
