@@ -1,8 +1,8 @@
-See `research/README.md` for Task 2 (LinkedIn organic content strategy research).
-
 # AI Tooling Portfolio Setup
 
 This repository documents my process setting up an AI-assisted development environment as a non-technical candidate, completed as part of a portfolio task.
+
+See `research/README.md` for Task 2 (LinkedIn organic content strategy research).
 
 ## Tools Installed
 
