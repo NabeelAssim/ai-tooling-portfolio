@@ -7,6 +7,7 @@ This folder documents research into LinkedIn organic content strategy experts re
 - **`linkedin-posts/`** — Collected LinkedIn posts per expert, used to study format, hooks, and content patterns.
 - **`youtube-transcripts/`** — Transcripts of videos/podcast appearances per expert, fetched via `get_transcript.py`.
 - **`get_transcript.py`** — Script used to pull transcripts from YouTube via the Supadata API, given a video URL, expert name, and title. Organizes output into per-expert folders automatically.
+- **`other/`** — No additional materials beyond the three folders above were used in this research; kept empty per task structure.
 - **`sources.md`** — Full source list with links to each expert's LinkedIn, YouTube, podcasts, newsletter, and website, plus selection rationale.
 
 ## Selection Criteria
