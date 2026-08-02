@@ -2,7 +2,7 @@
 
 This repository documents my process setting up an AI-assisted development environment as a non-technical candidate, completed as part of a portfolio task.
 
-See `research/README.md` for Task 2 (LinkedIn organic content strategy research).
+See `research/README.md` for Task 2 (LinkedIn organic content strategy research), and `research/playbook/PLAYBOOK.md` for Task 3 (Playbook/SOP built from that research).
 
 ## Tools Installed
 

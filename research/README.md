@@ -39,4 +39,6 @@ Full details — including podcast appearances, publications, newsletters, and i
 4. Fetched relevant YouTube/podcast video transcripts per expert into `youtube-transcripts/`, using `get_transcript.py`.
 5. Documented sourcing and rationale in `sources.md` for traceability.
 
+See [`playbook/PLAYBOOK.md`](./playbook/PLAYBOOK.md) for Task 3 — the sourced Playbook/SOP built from this research.
+
 See the root [`README.md`](../README.md) for Task 1 (AI tooling environment setup).
