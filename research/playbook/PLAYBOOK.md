@@ -2,6 +2,8 @@
 
 I built this from the 10 experts I researched (`research/sources.md`, `research/linkedin-posts/`, `research/youtube-transcripts/`). Every recommendation below is cited back to the specific post or video it came from.
 
+LinkedIn post citations include a direct link and an exact date, pulled via a LinkedIn post date-extractor tool. YouTube citations are sourced by video title and speaker rather than a direct link.
+
 ---
 
 ## 1. Core Recommendations
@@ -42,29 +44,29 @@ Lara Acosta's "4-3-2-1" framework treats 4 posts a week as non-negotiable. Her a
 
 Jasmin Alic went the other way. He started at 4-5 posts a week, dropped to 3-4, and now runs 2-3. He actually tested 6 posts a week for two weeks and pulled back because it wasn't sustainable if quality mattered to him (source: Jasmin Alic, LinkedIn post, 29.06.2026, https://www.linkedin.com/posts/alicjasmin_im-often-asked-about-my-linkedin-early-share-7477307230107754496-zNNR/).
 
-I'd go with Jasmin Alic here. Lara's content is her whole business, so 4x/week is the job. For a founder running a brand alongside everything else, Jasmin's the one who actually ran the higher-frequency experiment and walked it back based on his own results. A lower cadence you can actually sustain beats a higher one you abandon by month two.
+I'd go with Jasmin Alic here. I'd rather post two or three times a week consistently than force out a fourth post just to hit a number — consistency beats motivation. Lara's cadence works because content is her whole business. For a founder running a brand alongside everything else, the pace has to be one you can actually keep up with, not one that looks better on paper.
 
 **Disagreement 2 — how much to bet on video right now.**
 Guillaume Moubeche tells B2B pages to skip video entirely and lean into text with an actual voice, based on what he saw auditing company pages (source: Guillaume Moubeche, "Grow your LinkedIn Business Page — My #1 Strategy," YouTube).
 
 Jasmin Alic's numbers still favor text overall, but he's flagging that LinkedIn's newer video feed is currently giving niche-topic videos outsized reach — enough that he's adding video to his own strategy for the first time ever (source: Jasmin Alic, "2025 LinkedIn Strategies That Actually Work," YouTube).
 
-I'd side with Jasmin here, mostly because his read is more current — it's tied to the same feed change Guillaume's older audit predates. But I'd treat video as a bet on a specific niche topic, not a default format, since Richard van der Blom's data shows this exact pattern (new format gets pushed hard, reach spikes, then fades) has already happened with carousels and polls.
+I'd side with Jasmin here, partly because his read is the more recent one. But I agree with it on the substance too — niche topic matters. A new format can get pushed hard and reach a spike before it fades, while a consistent format keeps giving results you can actually expect. Richard van der Blom's data backs this up — the same push-then-fade pattern already happened with carousels and polls.
 
 **Disagreement 3 — does the sales ask go in the post or stay out of it.**
 Jasmin Alic never writes a sales post. The ask lives in a pinned comment under an educational post. His reasoning: putting the sell inside the post retroactively makes the whole thing feel like bait (source: Jasmin Alic, "2025 LinkedIn Strategies That Actually Work," YouTube).
 
 Matt Lakajev's best-performing format does the opposite — story, lesson, result, then a direct "work with me" CTA baked right into the post (source: Matt Lakajev, LinkedIn post, 17.06.2025, https://www.linkedin.com/posts/mattlakajev_if-youre-trying-to-sell-on-linkedin-you-share-7340686459739193345-V8RT/).
 
-I don't think these two are actually solving the same problem, so I wouldn't pick one and throw out the other. Jasmin's optimizing for trust on an evergreen post. Matt's optimizing conversion on a specific launch moment. I'd use Jasmin's approach as the default and save Matt's for content that's explicitly built around an offer or a launch.
+I don't think these two are actually solving the same problem, so I wouldn't pick one and throw out the other. I'd focus on what the post itself is for. If it's a sales post, I wouldn't hesitate to bake a CTA right into it. But I'd be careful not to overdo it — turning every post into a sales pitch with a CTA attached. A few is fine. Not all of them.
 
 ---
 
 ## 3. What I Rejected and Why
 
-**Matt Lakajev's 10-DMs-a-day model.** This is core to how he actually built his numbers, but it's built for someone running active outbound lead gen with a defined ICP to cold-message (source: Matt Lakajev, LinkedIn post, 18.05.2026, https://www.linkedin.com/posts/mattlakajev_this-is-it-everything-learned-making-6m-share-7462013910561366016-010O/). For a B2B SaaS brand doing organic thought leadership instead of outbound sales, that volume of cold DMs works against the exact trust this playbook is trying to build. Leaving it out.
+**Matt Lakajev's 10-DMs-a-day model.** I actually think this approach is right — you won't find opportunities unless you go looking for them, and cold DMs done with respect instead of spam are a fair way to build a pipeline. But that's an outbound lead-gen tactic, not a content strategy (source: Matt Lakajev, LinkedIn post, 18.05.2026, https://www.linkedin.com/posts/mattlakajev_this-is-it-everything-learned-making-6m-share-7462013910561366016-010O/). This playbook is scoped to organic content, not outreach, so 10 DMs a day belongs in a different playbook — not because it's a bad tactic, but because it's answering a different question than the one this document is trying to answer.
 
-**Guillaume Moubeche's curation strategy** — reposting and commenting on other creators' content to piggyback reach. It's a fair way to bootstrap a brand-new page with zero history (source: Guillaume Moubeche, "Grow your LinkedIn Business Page — My #1 Strategy," YouTube), but it's a distribution shortcut, not a positioning strategy. It doesn't build the kind of clear, singular association Lara Acosta says is what actually separates accounts that convert from ones that just post content (source: Lara Acosta, "How I write LinkedIn Posts that get 100,000+ views," YouTube). I've noted it as an early-stage bootstrapping tactic only, not part of the core playbook.
+**Guillaume Moubeche's curation strategy** — reposting and commenting on other creators' content to piggyback reach. It doesn't create a unique identity. If you're leaving the same kind of generic comment on everyone's posts, you're not actually saying anything — you're just spending time to look active. That's different from engaging with an actual question or a real point someone made, which is worth doing. But curation as a growth tactic, where the comment itself is interchangeable from one post to the next, is just wasted time dressed up as strategy (source: Guillaume Moubeche, "Grow your LinkedIn Business Page — My #1 Strategy," YouTube).
 
 ---
 
